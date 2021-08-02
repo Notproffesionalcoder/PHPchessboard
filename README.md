@@ -1,0 +1,2 @@
+# PHPchessboard
+Simple PHP chessboard
